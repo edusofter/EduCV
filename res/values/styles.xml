@@ -1,0 +1,49 @@
+<resources>
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+            <item name="android:activatedBackgroundIndicator">@drawable/drawer_button</item>
+        -->
+       
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
+		<item name="android:homeAsUpIndicator">@drawable/ic_drawer</item>
+    </style>
+
+
+    <style name="rowStyle">
+        <item name="android:layout_margin">3dp</item>
+    </style>
+    <style name="cvderecha" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:paddingLeft">3dp</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    
+    <style name="card">
+        <item name="android:background">@drawable/bg_card</item>
+         <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+   
+    <style name="paragraph" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    </style>
+    <style name="title" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+    </style>
+    
+   
+</resources>

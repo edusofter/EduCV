@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eduardo Martínez CV</string>
+    <string name="action_info">Acerca de</string>
+    <string name="action_email">Email</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="empty_string"></string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+
+    <string-array name="fragments_sections">
+        <item>Datos Personales</item>
+        <item>Formación Académica</item>
+        <item>Experiencia Profesional</item>
+        <item>Android</item>
+        <item>Desarrollo Web</item>
+        <item>Informática</item>
+        <item>Idiomas</item>
+        <item>Otra formación</item>
+        <item>Aficiones</item>
+    </string-array>
+
+    <string name="nombre">"Nombre: "</string>
+    <string name="eduardo">Eduardo</string>
+    <string name="foto">Foto</string>
+    <string name="apellidos">"Apellidos: "</string>
+    <string name="martinez_bernardo">Martínez Bernardo</string>
+    <string name="fecha_nacimiento">"Fecha Nacimiento: "</string>
+    <string name="marzo_1986">6 de Marzo de 1986</string>
+    <string name="asturias">Oviedo (Asturias)</string>
+    <string name="lugar_nacimiento">Lugar de nacimiento:</string>
+    <string name="domicilio">"Domicilio: "</string>
+    <string name="dom">Tellería 14, 7º 1, Barakaldo (Bizkaia)</string>
+    <string name="telefono">"Teléfono: "</string>
+    <string name="tel">+34 606 744 609</string>
+    <string name="email">"Email: "</string>
+    <string name="edumartinezber">edumartinezber@gmail.com</string>
+    <string name="android1">Antes de comenzar mi proyecto fin de carrera lo único que sabía de Android era que su icono era verde. Me lancé al desarrollo de una aplicación que daría soporte nativo para móviles a una web ya existente sobre comercios online como proyecto fin de carrera.</string>
+    <string name="android2">La idea parecía sencilla pero el desarrollo completo me llevó casi un año, contando una documentación exhaustiva y profunda que me llevó a conocer los entresijos del sistema operativo. La nota final obtenida, Matrícula de Honor, fue una alegría y una recompensa moral por el esfuerzo.</string>
+    <string name="android3">Gracias al trabajo realizado conseguí empezar a trabajar en Kernet, empresa donde seguí ampliando mis conocimientos y poniendo en práctica todo lo que sabía. Mucha refactorización, reutilización de código y depuración de bugs, con una gran supervisión hicieron que en menos de 3 meses estuviera encargándome de proyectos por mi cuenta.</string>
+    <string name="android4">A pesar de que lleve sin desarrollar aplicaciones para clientes más de un año, sigo al tanto de las actualizaciones, noticias y nuevas características de cada versión de Android. Creo que a medio plazo será la tecnología dominante en dispositivos móviles, pero no estoy cerrado a aprender otras plataformas.</string>
+    <string name="desarrollo1">Desde que tuve acceso a Internet me he interesado por el desarrollo de webs. Creé mi primera página en HTML alrededor del año 2000, fui aprendiendo, de manera autodidacta, sobre las últimas tendencias de la época: los frames y animaciones en Flash. Comencé a ver la gran utilidad de los rudimentarios CMS que empezaban a surgir, como PHP Nuke y su potencial.</string>
+    <string name="desarrollo2">Cuando empecé la carrera me centré, por necesidad, en el desarrollo de aplicaciones cliente-servidor. Hasta que en los últimos años pude cursar asignaturas y acceder a cursos en los que descubrí frameworks de diferentes lenguajes como Struts, Symfony o Ruby on Rails.</string>
+    <string name="desarrollo3">Actualmente el desarrollo web es uno de mis puntos fuertes, si bien, no he trabajado en proyectos de forma profesional, conozco la mayoría de herramientas que se utilizan en la industria y tengo una enorme facilidad para acostumbrarme a nuevos entornos y lenguajes. </string>
+    <string name="ingles">Inglés</string>
+    <string name="frances">Francés</string>
+    <string name="espanol">Español</string>
+    <string name="nativo">Nativo</string>
+    <string name="oral_bajo">Oral: Bajo</string>
+    <string name="escrito_medio">Escrito: Medio</string>
+    <string name="oral_alto">Oral: Muy Alto</string>
+    <string name="escrito_alto">Escrito: Muy Alto</string>
+    <string name="ingles1">A pesar de no contar con titulaciones oficiales tengo un nivel de Inglés casi bilingüe. Toda la documentación que uso está en Inglés y si tengo que buscar ayuda lo hago siempre en este idioma.</string>
+    <string name="ingles2">Vivir durante más de un año en Canadá ha sido una gran experiencia en este sentido. He aprendido un lenguaje menos académico a través del uso diario y he tenido la oportunidad de expresarme también en ambientes profesionales y técnicos como responsable del área de informática de la oficina.</string>
+    <string name="carne1">Carné de Conducir B</string>
+    <string name="carne2">Expedido en 2007</string>
+    <string name="carne3">Dispongo de vehículo propio</string>
+    <string name="socorrista1">Socorrista acuático y primeros auxilios</string>
+    <string name="socorrista2">Título expedido en 2008 por la Federación Española de Salvamento</string>
+    <string name="socorrista3">Trabajé como socorrista en playas de Asturias en los veranos de 2008, 2009 y 2010</string>
+    <string name="esqui1">Técnico Deportivo en Esquí Alpino Nivel 1</string>
+    <string name="esqui2">Título expedido en 2011 por la Escuela del Deporte del Principado de Asturias</string>
+    <string name="esqui3">Trabajé como profesor de esquí en la estación de San Isidro en 2011 para la empresa Paraven S.A.</string>
+    <string name="af_esqui">Esquí</string>
+    <string name="af_video">Edición de vídeo</string>
+    <string name="primeros_pasos">Primeros pasos</string>
+    <string name="aprendizaje">Aprendizaje</string>
+    <string name="futuro">Futuro</string>
+    <string name="aproximacion">Aproximación</string>
+    <string name="profundidad">Profundidad</string>
+    <string name="consolidacion">Consolidación</string>
+    <string name="actualizacion">Actualización</string>
+    <string name="moviles_pda">Móviles/PDA</string>
+    <string name="moviles_text">Android SDK, Java, ORMLite, C#, .NET Compact Framework, XML</string>
+    <string name="aplicaciones_web">Aplicaciones web</string>
+    <string name="aplicaciones_web_text">J2EE, XHTML, PHP, JQuery, Struts, Symfony, Hibernate, Spring, Wordpress, XAMPP</string>
+    <string name="bbdd">Bases de datos</string>
+    <string name="bbdd_text">MySQL, SQLite, JDBC, Oracle, PL/SQL</string>
+    <string name="diseno_app">Diseño de aplicaciones</string>
+    <string name="diseno_app_text">UML, SVN, Enterprise Architect</string>
+    <string name="ssoo">Sistemas operativos</string>
+    <string name="ssoo_text">Windows XP - 8, Win 2003 Server, UNIX, Linux</string>
+    <string name="ofimatica">Ofimática</string>
+    <string name="ofimatica_text">Office (2003 – 2010), Open Office, Project</string>
+    <string name="edicion_video">Edición de vídeo</string>
+    <string name="edicion_video_text">Vegas Video, After Effects, Photoshop</string>
+    <string name="esqui_text">Siempre ha sido mi mayor pasión. Me encanta la nieve y deslizarme por ella con cualquier cosa bajo mis pies.</string>
+    <string name="video_text">Desde que tuve mi primera cámara de video me he esforzado en que las grabaciones que hacía no se quedaran en meros recuerdos en una cinta o tarjeta de memoria. Combinar la grabación, edición de video y el esquí, mejora aún más las experiencias.</string>
+    <string name="share">Compartir</string>
+    <string name="shareTitle">Mira la app del CV de Eduardo Martínez.</string>
+    <string name="shareBody">Puedes descargarte la app de aquí: https://play.google.com/store/apps/details?id=com.edusofter.educv</string>
+    <string name="emailSend">Enviar email</string>
+    <string name="emailSendSubject">Contacto</string>
+    <string name="emailSendBody">He visto tu aplicación y me gustaría ponerme en contacto contigo.</string>
+    <string name="title_activity_activity_about">Acerca de</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="about_text1">Esta aplicación ha sido desarrollada con el propósito de mostrar algunas de mis capacidades a la hora de desarrollar aplicaciones Android.</string>
+    <string name="about_text2">En el apartado visual he intentado mantener las guías de estilo de Android, ajustándome al tema Holo Light.</string>
+    <string name="about_text3">Puedes enviarme cualquier duda, idea o sugerencia a: </string>
+    <string name="about_text4">edumartinezber@gmail.com</string>
+    <string name="about_text5">.</string>
+    <string name="about_que">¿qué?</string>
+
+    <string-array name="animation_que">
+        <item>NO</item>
+        <item>CONOZCO</item>
+        <item>NINGÚN PAIS</item>
+        <item>LLAMADO</item>
+        <item>QUÉ</item>
+        <item>HABLAN</item>
+        <item>MI IDIOMA</item>
+        <item>EN</item>
+        <item>QUÉ?</item>
+    </string-array>
+
+    <string name="que_answer1">Zed está muerto, nena.</string>
+    <string name="que_answer2">Qué?</string>
+    <string name="que_answer3">Soy el Sr. Lobo, soluciono problemas.</string>
+    <string name="no_magic_word">No has dicho la palabra mágica</string>
+    
+    <string name="python_question">Que velocidad media lleva una golondrina sin carga?</string>
+    <string name="python_answer">De qué especie? De la Africana o de la Europea?</string>
+    <string name="python_answer2">Más brujas!!!</string>
+    <string name="python_answer3">Verde, no, aaaaaghh!</string>
+    <string name="python_ni">Ni! Ni! Ni ni ni ni!</string>
+    
+    <string name="meaning_life">La respuesta a la gran pregunta, de la vida, del universo y de todo es…</string>
+    
+    <string-array name="monkeyEnding">
+        <item>Ok, eso es todo, apaga el ordenador y haz algo constructivo.</item>
+        <item>Como jugar al tenis.</item>
+        <item>O lava tu coche.</item>
+        <item>O haz la cena.</item>
+        <item>O metete en una banda de funk.</item>
+        <item>O viaja a un país lejano.</item>
+        <item>O preséntate a las elecciones.</item>
+        <item>O habla con alguien del sexo opuesto.</item>
+        <item>O encera el coche.</item>
+        <item>O celebra una barbacoa.</item>
+        <item>O excava en busca de un tesoro.</item>
+        <item>U ordeña una vaca.</item>
+        <item>O ten un concurso de gritos con el perro del vecino.</item>
+        <item>O haz neurocirugía.</item>
+        <item>O pinta una linea amarilla en la acera.</item>
+        <item>O escribe tu nombre en la nieve.</item>
+        <item>O enseña a tejer a las almejas.</item>
+        <item>O canta folk galés en un banco.</item>
+        <item>O planta arboles en propiedad pública.</item>
+        <item>O confunde a la persona que tienes al lado.</item>
+        <item>O haz una mesa triangular.</item>
+        <item>O bota, rebota y salta.</item>
+        <item>O conduce un tren.</item>
+        <item>U organiza el cajón de los calcetines alfabéticamente.</item>
+        <item>O juega a los bolos con tu madre.</item>
+        <item>O enseña trucos a escarabajos de la patata.</item>
+        <item>O haz un quilt.</item>
+        <item>O publica una revista sobre tajaduras de lápiz.</item>
+        <item>O come gelatina de lima con piña dentro.</item>
+        <item>O pavimenta una autopista.</item>
+        <item>O aprende a dibujar.</item>
+        <item>O empieza con la fotografía.</item>
+        <item>O aprende a mirar la hora.</item>
+        <item>O fotocopia dinero.</item>
+        <item>O sal a por pasta.</item>
+        <item>O cose un vestido.</item>
+        <item>O baña a tu iguana.</item>
+        <item>O vete de pesca.</item>
+        <item>O pinta la casa de un extraño por la noche.</item>
+        <item>O aprende a hacer windsurf.</item>
+        <item>O cámbiate de peinado.</item>
+        <item>O afila tus rotuladores.</item>
+        <item>O alimenta a un tucán.</item>
+        <item>O disfruta del sol.</item>
+        <item>O haz un crucigrama.</item>
+        <item>O comprate ropa guay.</item>
+        <item>O vete a la playa.</item>
+        <item>O juega al criquet con tu padre.</item>
+        <item>O riega las plantas.</item>
+        <item>O construye una casa de muñecas.</item>
+        <item>O invita a unos amigos a salmón y vino blanco.</item>
+        <item>O ponte nostálgico y escríbeme un email.</item>
+    </string-array>
+	<string name="emailSendSubjectFinal">Campeón del Easter Egg!!</string>
+    <string name="emailSendBodyFinal">Acabo de ver el final del Monkey Island II y es genial!</string>
+</resources>

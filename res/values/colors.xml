@@ -1,0 +1,15 @@
+
+    <resources>
+        <color name="grey_transparent">#A777</color>
+        <color name="transparent">#FFFF</color>
+        <color name="red">#F00</color>
+        <color name="white">#FFF</color>
+        <color name="black">#000</color>
+        <color name="blue">#00F</color>
+        <color name="grey_background">#EEE</color>
+        <color name="blue_twitter">#55ACEE</color>
+        <color name="purple_deep">#383a94</color>
+        <color name="yellow_deep">#feff00</color>
+        <color name="purple_lechuck">#ae00ff</color>
+        
+    </resources>

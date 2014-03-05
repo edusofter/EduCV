@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eduardo Martínez Resume</string>
+    <string name="action_info">About</string>
+    <string name="action_email">Email</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="empty_string"></string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+
+    <string-array name="fragments_sections">
+        <item>Personal info</item>
+        <item>Education</item>
+        <item>Experience</item>
+        <item>Android</item>
+        <item>Web development</item>
+        <item>IT Knowledge</item>
+        <item>Languages</item>
+        <item>Non IT experience</item>
+        <item>Hobbies</item>
+    </string-array>
+
+    <string name="nombre">"Name: "</string>
+    <string name="eduardo">Eduardo</string>
+    <string name="foto">Picture</string>
+    <string name="apellidos">"Last name: "</string>
+    <string name="martinez_bernardo">Martínez Bernardo</string>
+    <string name="fecha_nacimiento">"Date of birth: "</string>
+    <string name="marzo_1986">March the 6th, 1986</string>
+    <string name="asturias">Oviedo (Asturias)</string>
+    <string name="lugar_nacimiento">Place of birth:</string>
+    <string name="domicilio">"Address: "</string>
+    <string name="dom">Tellería 14, 7º 1, Barakaldo (Bizkaia)</string>
+    <string name="telefono">"Phone: "</string>
+    <string name="tel">+34 606 744 609</string>
+    <string name="email">"Email: "</string>
+    <string name="edumartinezber">edumartinezber@gmail.com</string>
+    <string name="android1">Before I started my final year project in college the only thing I knew about Android was that its icon was green. I started the development of a native application for mobile devices for an existing project about online stores to get into the mobile development environment.</string>
+    <string name="android2">The idea seemed easy at first but the full project took me almost a year, including an exhaustive and deep documentation of it that allowed me to know the platform in detail. The grade I obtained, first class with distinction, was a huge joy for me and a fair reward.</string>
+    <string name="android3">Thanks to all the effort, I started working in Kernet, where I kept on expanding my knowledge and using all I had learnt. A lot of refactoring, code reusing and debugging, with great supervision made me able to be in charge of projects on my own in less than three months.</string>
+    <string name="android4">Despite not having developed apps for clients in more than one year, I try to keep myself up to date with the news and latest features of Android. I think it will be the main mobile OS for a while, although I\'m eager to learn about other platforms.</string>
+    <string name="desarrollo1">I\'ve been interested in web development since the first time I accessed the internet. I created my first website in the year 2000, I started learning on my own about the coolest web solutions at that time such as frames or flash. The first CMS that were coming, like PHPNuke seemed really useful at that time and boosted my PHP knowledge.</string>
+    <string name="desarrollo2">When I started college I focused on client-server applications. It wasn\'t until the last years of my degree that i got access to lectures and courses on new frameworks and different programming languages like Struts, Symfony or Ruby on Rails.</string>
+    <string name="desarrollo3">I think web development is one of my key points. Although I haven\'t worked in many professional projects, I know most of the tools used and the trends of the industry and I\'m really good at adapting to new environments and languages.</string>
+    <string name="ingles">English</string>
+    <string name="frances">French</string>
+    <string name="espanol">Spanish</string>
+    <string name="nativo">Native</string>
+    <string name="oral_bajo">Oral: Low</string>
+    <string name="escrito_medio">Written: Medium</string>
+    <string name="oral_alto">Oral: Very High</string>
+    <string name="escrito_alto">Written: Very High</string>
+    <string name="ingles1">Although I don\'t have any official exams or qualifications I have an almost bilingual level of English. All the documentation I use is in English and if I have to google something I obviously do it in this language.</string>
+    <string name="ingles2">Living in Canada for more than one year has been a great experience in this matter. I\'ve learnt a less academic language through daily use, but also I had the chance to express myself in a more professional and technical level thanks to being in charge of the IT department of the office.</string>
+    <string name="carne1">Driving License B</string>
+    <string name="carne2">Issued in 2007</string>
+    <string name="carne3">I have my own car.</string>
+    <string name="socorrista1">Lifeguard and first aid</string>
+    <string name="socorrista2">Issued in 2008 by the Federación Española de Salvamento.</string>
+    <string name="socorrista3">I worked in Asturias beaches in the summers of 2008, 2009 and 2010.</string>
+    <string name="esqui1">Ski instructor</string>
+    <string name="esqui2">Issued in 2011 by the Escuela del Deporte del Principado de Asturias.</string>
+    <string name="esqui3">I worked as a ski instructor in San Isidro in 2011 for Paraven SA.</string>
+    <string name="af_esqui">Skiing</string>
+    <string name="af_video">Video Editing</string>
+    <string name="primeros_pasos">First steps</string>
+    <string name="aprendizaje">Learning</string>
+    <string name="futuro">Future</string>
+    <string name="aproximacion">Approach</string>
+    <string name="profundidad">In depth</string>
+    <string name="consolidacion">Consolidation</string>
+    <string name="actualizacion">Update</string>
+    <string name="moviles_pda">Mobile/PDA</string>
+    <string name="moviles_text">Android SDK, Java, ORMLite, C#, .NET Compact Framework, XML</string>
+    <string name="aplicaciones_web">Web applications</string>
+    <string name="aplicaciones_web_text">J2EE, XHTML, PHP, JQuery, Struts, Symfony, Hibernate, Spring, Wordpress, XAMPP</string>
+    <string name="bbdd">Databases</string>
+    <string name="bbdd_text">MySQL, SQLite, JDBC, Oracle, PL/SQL</string>
+    <string name="diseno_app">Application design</string>
+    <string name="diseno_app_text">UML, SVN, Enterprise Architect</string>
+    <string name="ssoo">Operative Systems</string>
+    <string name="ssoo_text">Windows XP - 8, Win 2003 Server, UNIX, Linux</string>
+    <string name="ofimatica">Office</string>
+    <string name="ofimatica_text">Office (2003 – 2010), Open Office, Project</string>
+    <string name="edicion_video">Video editing</string>
+    <string name="edicion_video_text">Vegas Video, After Effects, Photoshop</string>
+    <string name="esqui_text">It has always been my biggest passion. I love the snow and gliding over it with pretty much anything under my feet.</string>
+    <string name="video_text">Since I got my first camera, I\'ve always tried to make the recordings something else than a memory forgotten in an old tape. Combining video recording, editing and skiing enhances the experiences even further.</string>
+    <string name="share">Share</string>
+    <string name="shareTitle">Check out Eduardo Martinez CV App.</string>
+    <string name="shareBody">You can download the app here https://play.google.com/store/apps/details?id=com.edusofter.educv</string>
+    <string name="emailSend">Send email</string>
+    <string name="emailSendSubject">Contact</string>
+    <string name="emailSendBody">I have seen your application and I would like to contact you.</string>
+    <string name="title_activity_activity_about">About</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_text1">This application has been developed for the main purpose of showing and practicing some of my Android development Skills.</string>
+    <string name="about_text2">I have tried to follow the Android design guidelines for the application, keeping it as Holo as possible.</string>
+    <string name="about_text3">You can send your questions, ideas or suggestions to </string>
+    <string name="about_text4">edumartinezber@gmail.com</string>
+    <string name="about_text5">.</string>
+    <string name="about_que">what?</string>
+
+    <string-array name="animation_que">
+        <item>WHAT</item>
+        <item>AIN\'T NO</item>
+        <item>COUNTRY</item>
+        <item>I\'VE EVER</item>
+        <item>HEARD OF</item>
+        <item>THEY SPEAK</item>
+        <item>ENGLISH</item>
+        <item>IN</item>
+        <item>WHAT?</item>
+    </string-array>
+
+    <string name="que_answer1">Zed\'s dead baby.</string>
+    <string name="que_answer2">What?</string>
+    <string name="que_answer3">I\'m Winston Wolf. I solve problems.</string>
+    <string name="no_magic_word">You didn\'t say the magic word</string>
+    <string name="python_question">What is the air-speed velocity of an unladen swallow?</string>
+    <string name="python_answer">What do you mean? An African or European swallow?</string>
+    <string name="python_answer2">MORE WITCHES!!!</string>
+    <string name="python_answer3">I wasn\'t expecting the spanish inquisition.</string>
+    <string name="python_ni">Ni! Ni! Ni ni ni ni!</string>
+    <string name="text_twitter">\@edu_puni</string>
+    <string name="meaning_life">The answer to the ultimate question of life, the universe, and everything is…</string>
+
+    <string-array name="monkeyEnding">
+        <item>Ok, that\'s it, turn off your computer and do something constructive.</item>
+        <item>Like play a little racquetball.</item>
+        <item>Or wash your car.</item>
+        <item>Or cook dinner.</item>
+        <item>Or join a funk band.</item>
+        <item>Or travel to a foreign country.</item>
+        <item>Or run for president.</item>
+        <item>Or talk to a member of the opposite sex.</item>
+        <item>Or lube your car.</item>
+        <item>Or host a weenie roast.</item>
+        <item>Or dig for buried treasure.</item>
+        <item>Or milk a cow.</item>
+        <item>Or have a yelling contest with your neighbour\'s dog.</item>
+        <item>Or perform brain surgery.</item>
+        <item>Or paint a yellow line in the center of your driveway.</item>
+        <item>Or write your name in the snow.</item>
+        <item>Or teach basket weaving to clams.</item>
+        <item>Or sing Welsh folk songs at the bank.</item>
+        <item>Or plant trees on public property.</item>
+        <item>Or confuse the person next to you.</item>
+        <item>Or make a triangular table.</item>
+        <item>Or hop, skip and jump.</item>
+        <item>Or ride a train.</item>
+        <item>Or organize your sock drawer alphabetically.</item>
+        <item>Or go bowling with your mom.</item>
+        <item>Or train potato bugs to do tricks.</item>
+        <item>Or make a quilt.</item>
+        <item>Or publish a magazine about pencil shavings.</item>
+        <item>Or eat lime jello with pineapple in it.</item>
+        <item>Or pave a freeway.</item>
+        <item>Or learn to draw.</item>
+        <item>Or take up photography.</item>
+        <item>Or learn to tell time.</item>
+        <item>Or photocopy money.</item>
+        <item>Or go out for pasta.</item>
+        <item>Or sew a dress.</item>
+        <item>Or bathe your iguana.</item>
+        <item>Or go fishing.</item>
+        <item>Or paint a stranger\'s house in the middle of the night.</item>
+        <item>Or take up windsurfing.</item>
+        <item>Or change your hair style.</item>
+        <item>Or sharpen your whiteboard markers.</item>
+        <item>Or feed a toucan.</item>
+        <item>Or enjoy the sun.</item>
+        <item>Or do a crossword puzzle.</item>
+        <item>Or buy some cool clothes.</item>
+        <item>Or go to the beach.</item>
+        <item>Or play croquet with your dad.</item>
+        <item>Or water your plants.</item>
+        <item>Or build a doll house.</item>
+        <item>Or invite some friends over for salmon and white wine.</item>
+        <item>Or get nostalgic and write me an email.</item>
+    </string-array>
+
+    <string name="finalMonkey">edumartinezber@gmail.com</string>
+
+    <string-array name="monkeyTesting">
+        <item>Ok, that\'s it, turn off your computer and do something constructive.</item>
+        <item>Like play a little racquetball.</item>
+        <item>Or wash your car.</item>
+        <item>Or cook dinner.</item>
+        <item>Or get nostalgic and write me an email.</item>
+    </string-array>
+
+    <string name="emailSendSubjectFinal">Easter Egg Winner!!</string>
+    <string name="emailSendBodyFinal">I just watched the whole Monkey Island II ending, and it was awesome.</string>
+    <string name="guion">" - "</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <dimen name="text_animation_que_small">20sp</dimen>
+    <dimen name="text_animation_que_large">45sp</dimen>
+	<dimen name="text_answers_que">12sp</dimen>
+	<dimen name="birdSize">120dp</dimen>
+	<dimen name="pythonMargin">130dp</dimen>
+	<dimen name="birdMargin">40dp</dimen>
+	<dimen name="birdMarginB">4dp</dimen>
+	<dimen name="birdTranslation">-170dp</dimen>
+	 <dimen name="margin_deep">100dp</dimen>
+</resources>
